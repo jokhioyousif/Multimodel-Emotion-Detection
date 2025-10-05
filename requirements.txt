@@ -1,0 +1,8 @@
+gradio
+transformers
+torch
+Pillow
+soundfile
+torchaudio
+imageio
+imageio-ffmpeg
